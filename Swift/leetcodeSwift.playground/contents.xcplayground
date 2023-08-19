@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='242validAnagram'/>
+        <page name='217containsDuplicates'/>
+        <page name='1twoSum'/>
+        <page name='49groupAnagrams'/>
+    </pages>
+</playground>

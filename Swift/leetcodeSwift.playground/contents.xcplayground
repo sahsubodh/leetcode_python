@@ -5,5 +5,7 @@
         <page name='217containsDuplicates'/>
         <page name='1twoSum'/>
         <page name='49groupAnagrams'/>
+        <page name='347topKFrequentElements'/>
+        <page name='128longestConsecutiveSequence'/>
     </pages>
 </playground>

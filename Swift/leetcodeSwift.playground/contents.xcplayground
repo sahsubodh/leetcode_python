@@ -7,5 +7,6 @@
         <page name='49groupAnagrams'/>
         <page name='347topKFrequentElements'/>
         <page name='128longestConsecutiveSequence'/>
+        <page name='125ValidPalindrome'/>
     </pages>
 </playground>

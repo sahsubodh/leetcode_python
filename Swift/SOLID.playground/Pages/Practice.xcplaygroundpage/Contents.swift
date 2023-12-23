@@ -108,6 +108,9 @@ if let url = URL(string:"https://example.com/image.png") {
 }
 */
 
+
+
+
 func incrementNumber() {
     var number = 5
     
@@ -164,6 +167,5 @@ let blockOperation = BlockOperation {
 
 let queue = OperationQueue()
 queue.addOperation(blockOperation)
-
 
 

@@ -1,7 +1,12 @@
 '''
+42. Trapping Rain Water
+
 Given n non-negative integers representing an elevation map where the width of each bar is 1, compute how much water it can trap after raining.
 
+ 
+
 Example 1:
+
 
 Input: height = [0,1,0,2,1,0,1,3,2,1,2,1]
 Output: 6
@@ -20,6 +25,7 @@ n == height.length
 '''
 
 class Solution:
+
     def trap(self, height: List[int]) -> int:
 
         low,high = 0, len(height) - 1
@@ -28,13 +34,14 @@ class Solution:
 
         while low < high:
             maxLeft = max(maxLeft,height[low])
-            maxRight = max(maxLeft,height[high])
+            maxRight = max(maxRight,height[high])
 
             if maxLeft < maxRight:
                 totalWater += maxLeft - height[low]
                 low += 1
             else:
                 totalWater += maxRight - height[high]
-                high -= 1      
+                high -= 1 
 
-        return totalWater    
+        return totalWater          
+

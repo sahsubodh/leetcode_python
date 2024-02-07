@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "DE0E18F9-DFB2-4E76-9F38-A12FBF75E0F6"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5A7AF745-7FF2-4F9E-B7DB-B11F6836AB25"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PraticeTableView/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "254"
+            endingLineNumber = "254"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A7EEF884-7CB4-49F1-B708-45812B15A1DF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PraticeTableView/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "249"
+            endingLineNumber = "249"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A7EEF884-7CB4-49F1-B708-45812B15A1DF - d5097aa3fa99c060"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Array&lt;PraticeTableView.Restaurant&gt;) -&gt; () in PraticeTableView.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "PraticeTableView"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/subodhsah/studies/leetcode/Swift/PraticeTableView/PraticeTableView/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "193"
+                  endingLineNumber = "193"
+                  offsetFromSymbolStart = "356">
+               </Location>
+               <Location
+                  uuid = "A7EEF884-7CB4-49F1-B708-45812B15A1DF - 93cb6bd739cc5606"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Optional&lt;Swift.String&gt;) -&gt; () in PraticeTableView.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "PraticeTableView"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/subodhsah/studies/leetcode/Swift/PraticeTableView/PraticeTableView/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "191"
+                  endingLineNumber = "191"
+                  offsetFromSymbolStart = "208">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A26D7956-C1A8-4804-88F2-D8B2B5099377"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PraticeTableView/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "115"
+            endingLineNumber = "115"
+            landmarkName = "fetchRestaurants(completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F98854B2-BDF4-477A-9E03-C461F2659139"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PraticeTableView/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "172"
+            endingLineNumber = "172"
+            landmarkName = "fetchRestaurants(completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CFA111D4-5620-4EB0-A7FA-227E937BA9D2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PraticeTableView/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "240"
+            endingLineNumber = "240"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "CFA111D4-5620-4EB0-A7FA-227E937BA9D2 - a0ce11e48c60cb5c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PraticeTableView.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "PraticeTableView"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/subodhsah/studies/leetcode/Swift/PraticeTableView/PraticeTableView/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "185"
+                  endingLineNumber = "185"
+                  offsetFromSymbolStart = "1712">
+               </Location>
+               <Location
+                  uuid = "CFA111D4-5620-4EB0-A7FA-227E937BA9D2 - a0ce11e48c60cb5c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PraticeTableView.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "PraticeTableView"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/subodhsah/studies/leetcode/Swift/PraticeTableView/PraticeTableView/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "185"
+                  endingLineNumber = "185"
+                  offsetFromSymbolStart = "1812">
+               </Location>
+               <Location
+                  uuid = "CFA111D4-5620-4EB0-A7FA-227E937BA9D2 - 1cb4e6ca9c041760"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 (Swift.Array&lt;PraticeTableView.Restaurant&gt;) -&gt; () in PraticeTableView.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "PraticeTableView"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/subodhsah/studies/leetcode/Swift/PraticeTableView/PraticeTableView/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "183"
+                  endingLineNumber = "183"
+                  offsetFromSymbolStart = "104">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
